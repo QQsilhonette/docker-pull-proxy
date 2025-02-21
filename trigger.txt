@@ -1,1 +1,1 @@
-langgenius/dify-api:0.15.3 crpi-n4lhx6n5kvpg9143.cn-hangzhou.personal.cr.aliyuncs.com/rokeylq/dify-api:0.5.13
+langgenius/dify-web:0.15.3 crpi-n4lhx6n5kvpg9143.cn-hangzhou.personal.cr.aliyuncs.com/rokeylq/dify-web:0.5.13
